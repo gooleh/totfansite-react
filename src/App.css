@@ -6,7 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+div {
+  height: 100vh; /* 화면 높이에 따라 조절 */
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -22,6 +24,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin: '0';
 }
 
 .App-link {
@@ -36,3 +39,6 @@
     transform: rotate(360deg);
   }
 }
+
+
+
