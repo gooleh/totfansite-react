@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/totfansite-react/static/css/main.c071c925.css",
+    "main.js": "/totfansite-react/static/js/main.75022602.js",
+    "static/js/787.c5173ff8.chunk.js": "/totfansite-react/static/js/787.c5173ff8.chunk.js",
+    "static/media/qfeweqd.png": "/totfansite-react/static/media/qfeweqd.db9c2891b41da3fd0c21.png",
+    "static/media/005.jpeg": "/totfansite-react/static/media/005.f3ad9fdff0eafdf698e3.jpeg",
+    "static/media/001.jpeg": "/totfansite-react/static/media/001.821e1755215a5e8d6c0f.jpeg",
+    "static/media/004.jpeg": "/totfansite-react/static/media/004.72b169ddd049acb8719f.jpeg",
+    "static/media/008.jpeg": "/totfansite-react/static/media/008.49b926b5a4d67997fbb2.jpeg",
+    "static/media/003.jpeg": "/totfansite-react/static/media/003.e682fe2c0e451c40a190.jpeg",
+    "static/media/009.jpeg": "/totfansite-react/static/media/009.da7e2b94cbbaff978edd.jpeg",
+    "static/media/006.jpeg": "/totfansite-react/static/media/006.0de45e80b5380a16f5c0.jpeg",
+    "static/media/007.jpeg": "/totfansite-react/static/media/007.5afbad7c213de43cafba.jpeg",
+    "static/media/002.jpeg": "/totfansite-react/static/media/002.b38c2619fad1e78d177b.jpeg",
+    "index.html": "/totfansite-react/index.html",
+    "main.c071c925.css.map": "/totfansite-react/static/css/main.c071c925.css.map",
+    "main.75022602.js.map": "/totfansite-react/static/js/main.75022602.js.map",
+    "787.c5173ff8.chunk.js.map": "/totfansite-react/static/js/787.c5173ff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c071c925.css",
+    "static/js/main.75022602.js"
+  ]
+}
