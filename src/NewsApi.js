@@ -13,7 +13,7 @@ function NewsApi() {
   useEffect(() => {
     const fetchNews = async () => {
       try {
-        const response = await axios.get('https://us-central1-totfansitedb.cloudfunctions.net/news-api-function', {
+        const response = await axios.get('/v1/search/news', {
             params: {
               query: '토트넘', 
               display: 52, // 뉴스 개수를 52개로 설정
